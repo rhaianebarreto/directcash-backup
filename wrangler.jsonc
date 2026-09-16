@@ -21,7 +21,7 @@
     {
       "binding": "DB",
       "database_name": "directcash-db",
-      "database_id": "00000000-0000-0000-0000-000000000000",
+      "database_id": "0a9c493f-a6bb-43d0-943e-8ed0b8341917",
       "migrations_dir": "migrations"
     }
   ],
